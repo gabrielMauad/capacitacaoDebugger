@@ -1,0 +1,36 @@
+.navbar {
+  height: 40px;
+  border-bottom: 2px solid;
+  display: flex;
+  align-items: center;
+}
+.buttons {
+  width: 164px;
+  height: inherit;
+  border-right: 2px solid black;
+  border-top: none;
+  border-left: none;
+  border-bottom: none;
+  font-size: 18px;
+  background: none;
+  color: goldenrod;
+}
+.buttons:hover {
+  background: rgba(0,0,0,.3);
+  cursor: pointer;
+  transition: .3s;
+}
+.last {
+  border: none;
+  border-radius: 0px 15px 0px 0px;
+}
+.first {
+  border-radius: 15px 0px 0px 0px;
+}
+.selected {
+  background: black;
+  color: goldenrod;
+}
+.selected:hover {
+  background: black;
+} 

@@ -1,0 +1,33 @@
+.header {
+  height: 30%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.divLogo {
+  width: 10%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.logo {
+  height: 90px;
+  animation: gira 5s linear infinite;
+  margin-bottom: 20px;
+}
+@keyframes gira {
+  to {
+      transform: rotate(360deg);
+  }
+}
+.divTitle {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  color: rgb(255,220,0);
+  font-weight: 600;
+  font-size: 45px;
+  font-family: 'Courier New', Courier, monospace;
+  margin-bottom: 20px;
+  margin-left: -110px;
+}

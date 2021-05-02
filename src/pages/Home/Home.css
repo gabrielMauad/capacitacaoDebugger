@@ -1,0 +1,5 @@
+.home {
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(360deg, rgb(255,220,0), black 75%);
+}

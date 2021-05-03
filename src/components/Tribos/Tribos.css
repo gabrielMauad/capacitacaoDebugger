@@ -1,0 +1,18 @@
+  .logoTribos {
+    height: 40px;
+    width: 329px;
+    background: none;
+    border: 1px solid black;
+    border-top: none;
+  }
+  .logoTribos:hover {
+    background: rgba(0,0,0,.3);
+    cursor: pointer;
+    transition: .3s;
+  }
+  .selectedTribo {
+    background: #101010;
+  }
+  .selectedTribo:hover {
+    background: #101010;
+  }

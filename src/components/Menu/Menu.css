@@ -1,6 +1,9 @@
 .box {
   height: 63%;
-  margin: 35px 20% 0px 20%;
+  margin: 35px 23px 0px 23px;
   border: 2px solid black;
   border-radius: 15px;
+}
+.tribos {
+  height: 30px;
 }

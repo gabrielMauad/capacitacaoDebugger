@@ -1,0 +1,40 @@
+.container {
+  height: 83%;
+  padding: 30px;
+}
+.level {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rightMenu {
+  display: flex;
+}
+.leftMenu {
+  display: flex;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  position: absolute;
+  font-size: 18px;
+  left: 50px;
+}
+.person {
+  border: 1px solid;
+  margin: 10px 5px 10px 5px;
+  padding: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  background: black;
+  color: goldenrod;
+  border-radius: 14px;
+}
+.__1 {
+  background: #424242;
+}
+.__2 {
+  margin: 10px;
+  background: #6b2800;
+}
+.__3 {
+  background: rgb(183 0 -1 / 1);
+}

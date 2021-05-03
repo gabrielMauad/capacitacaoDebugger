@@ -1,0 +1,23 @@
+{
+  "cargo": "Diretor",
+  "nome": "Pedro Barros",
+  "children": [
+    {
+      "cargo": "Head",
+      "nome": "Arthur Braga",
+      "children": [
+        {
+          "cargo": "Gerente de Marketing",
+          "nome": "André Mattos",
+          "children": []
+        },  
+        {
+          "cargo": "Gerente de Marketing",
+          "nome": "Juliana Marinho",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
+        

@@ -1,0 +1,166 @@
+{
+  "cargo": "Diretor",
+  "nome": "Ana Campana",
+  "children": [
+    {
+      "cargo": "Head",
+      "nome": "Arthur Lima",
+      "children": [
+        {
+          "cargo": "Gerente Scrum",
+          "nome": "Antonio Neto",
+          "tribo": "Draconis",
+          "children": [
+            {
+              "cargo": "Consultor de Projetos",
+              "nome": "Fernando Silva",
+              "tribo": "Draconis",
+              "children": []
+            },
+            {
+              "cargo": "Consultor de Projetos",
+              "nome": "Gabriel Mauad",
+              "tribo": "Draconis",
+              "children": []
+            },
+            {
+              "cargo": "Consultor de Projetos",
+              "nome": "Paulo Santos",
+              "tribo": "Draconis",
+              "children": []
+            },
+            {
+              "cargo": "Consultor de Projetos",
+              "nome": "Yasmim Ribeiro",
+              "tribo": "Draconis",
+              "children": []
+            }
+          ]
+        },
+        {
+          "cargo": "Gerente de Produtos",
+          "nome": "Matheus Novelli",
+          "tribo": "Draconis",
+          "children": []
+        },
+        {
+          "cargo": "Gerente Scrum",
+          "nome": "Vinicius Lara",
+          "tribo": "Orion",
+          "children": [
+            {
+              "cargo": "Consultor de Projetos",
+              "nome": "Gustavo Gomes",
+              "tribo": "Orion",
+              "children": []
+            },
+            {
+              "cargo": "Consultor de Projetos",
+              "nome": "João Rosmaninho",
+              "tribo": "Orion",
+              "children": []
+            },
+            {
+              "cargo": "Consultor de Projetos",
+              "nome": "Marcone Faria",
+              "tribo": "Orion",
+              "children": []
+            },
+            {
+              "cargo": "Consultor de Projetos",
+              "nome": "Paulo Carellos",
+              "tribo": "Orion",
+              "children": []
+            }
+          ]
+        },
+        {
+          "cargo": "Gerente de Produtos",
+          "nome": "Vitor Barros",
+          "tribo": "Orion",
+          "children": []
+        },
+        {
+          "cargo": "Gerente Scrum",
+          "nome": "Izabela Brant",
+          "tribo": "Sirius",
+          "children": [
+            {
+              "cargo": "Consultor de Projetos",
+              "nome": "Bryan Azevedo",
+              "tribo": "Sirius",
+              "children": []
+            },
+            {
+              "cargo": "Consultor de Projetos",
+              "nome": "Felipe Monteiro",
+              "tribo": "Sirius",
+              "children": []
+            },
+            {
+              "cargo": "Consultor de Projetos",
+              "nome": "Hélio Neto",
+              "tribo": "Sirius",
+              "children": []
+            },
+            {
+              "cargo": "Consultor de Projetos",
+              "nome": "João Menezes",
+              "tribo": "Sirius",
+              "children": []
+            },
+            {
+              "cargo": "Consultor de Projetos",
+              "nome": "Raphael Leivas",
+              "tribo": "Sirius",
+              "children": []
+            }
+          ]
+        },
+        {
+          "cargo": "Gerente de Produtos",
+          "nome": "Diogo Almazan",
+          "tribo": "Sirius",
+          "children": []
+        },
+        {
+          "cargo": "Gerente Scrum",
+          "nome": "Leandro Gripp",
+          "tribo": "Psique",
+          "children": [
+            {
+              "cargo": "Consultor de Projetos",
+              "nome": "Fernanda Mattos",
+              "tribo": "Psique",
+              "children": []
+            },
+            {
+              "cargo": "Consultor de Projetos",
+              "nome": "Giovanni Júnior",
+              "tribo": "Psique",
+              "children": []
+            },
+            {
+              "cargo": "Consultor de Projetos",
+              "nome": "Igor Amoras",
+              "tribo": "Psique",
+              "children": []
+            },
+            {
+              "cargo": "Consultor de Projetos",
+              "nome": "Matheus Barroso",
+              "tribo": "Psique",
+              "children": []
+            }
+          ]
+        },
+        {
+          "cargo": "Gerente de Produtos",
+          "nome": "Vitor Marques ",
+          "tribo": "Psique",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "cargo": "Diretor",
+  "nome": "Pedro Barros",
+  "children": [
+    {
+      "cargo": "Gerente de Desenvolvimento",
+      "nome": "Giovanna Souza",
+      "children": [
+        {
+          "cargo": "Assessor de Desenvolvimento",
+          "nome": "Ian Xavier",
+          "children": []
+        },  
+        {
+          "cargo": "Assessor de Desenvolvimento",
+          "nome": "Maiara Lima",
+          "children": []
+        },
+        {
+          "cargo": "Assessor de Desenvolvimento",
+          "nome": "Maria Caneschi",
+          "children": []
+        },
+        {
+          "cargo": "Assessor de Desenvolvimento",
+          "nome": "Paloma Costa",
+          "children": []
+        }
+      ]
+    }
+  ]
+}
+        

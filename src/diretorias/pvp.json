@@ -1,0 +1,17 @@
+{
+  "cargo": "Presidente",
+  "nome": "Laura Costa",
+  "children": [
+    {
+      "cargo": "Vice-Presidente",
+      "nome": "Ana Gonçalves",
+      "children": [
+        {
+          "cargo": "Administrador Financeiro",
+          "nome": "Ana Gonçalves",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

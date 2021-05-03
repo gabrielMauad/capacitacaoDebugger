@@ -1,0 +1,43 @@
+{
+  "cargo": "Diretor",
+  "nome": "Ana Campana",
+  "children": [
+    {
+      "cargo": "Head",
+      "nome": "Letícia Araújo",
+      "children": [
+            {
+              "cargo": "Consultor de Vendas",
+              "nome": "Alexandre Rocha",
+              "children": []
+            },  
+            {
+              "cargo": "Consultor de Vendas",
+              "nome": "Daniel Almeida",
+              "children": []
+            },
+            {
+              "cargo": "Consultor de Vendas",
+              "nome": "Daniel Benicá",
+              "children": []
+            },
+            {
+              "cargo": "Consultor de Vendas",
+              "nome": "João Ferreira",
+              "children": []
+            },
+            {
+              "cargo": "Consultor de Vendas",
+              "nome": "João Prates",
+              "children": []
+            }
+          ]
+        },
+        {
+          "cargo": "Head",
+          "nome": "Millena Figueiró",
+          "children": []
+        }
+      ]
+    }
+        

@@ -36,6 +36,7 @@ function WorkTree({ active, activeTribo }) {
   }
 
   useEffect(() => {
+    debugger;
     const jsons = { Projetos: projetos, Vendas: vendas, Marketing: marketing, Desenvolvimento: desenvolvimento, PVP: pvp };
     buildWorkTree(jsons[active]);
   }, [active, activeTribo])
@@ -43,7 +44,7 @@ function WorkTree({ active, activeTribo }) {
   return (
     <div className="container">
       {Object.values(hierarquia).map((level) =>
-        <div className={clsx('level', `_${level[0].level}`)}>
+        <div className={clsx('level', `_${lodash.first(level).level}`)}>
           <div className="leftMenu">
             <div >{lodash.first(level).cargo}</div>
           </div>
